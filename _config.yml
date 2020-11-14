@@ -1,4 +1,4 @@
-url: https://mdswanson.com
+url: https://www.rajagopal.com
 lsi: false
 markdown: kramdown
 kramdown:
@@ -13,9 +13,9 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 author:
-  name: Matt Swanson
-  email: matt@mdswanson.com
-  url: mdswanson.com
-title: Matt Swanson's Blog
+  name: Raj Rajagopal
+  email: web@rajagopal.com
+  url: rajagopal.com
+title: Raj's Blog
 feed:
   path: atom.xml
