@@ -26,8 +26,6 @@ Or [email me](mailto:web@rajagopal.com).
 
 
 
-I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at [Purdue University](http://www.purdue.edu/) ([ECE &rsquo;10](https://engineering.purdue.edu/ECE)). I do a little bit of everything, but I'm happiest working with Ruby or Android.
-
 ---
 
 I'm always learning and trying to improve my craft; I consider writing software to be one of my most enjoyable hobbies and usually have some kind of side-project I'm hacking on. I come at problems with an Engineer's Mindset and am always striving to write clean, readable code.
