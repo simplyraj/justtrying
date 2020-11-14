@@ -24,7 +24,7 @@ And in [LinkedIn](https://www.linkedin.com/in/srajrajagopal).
 
 Or [email me](mailto:web@rajagopal.com).
 
-I enjoy building simple apps that people love using.
+
 
 I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at [Purdue University](http://www.purdue.edu/) ([ECE &rsquo;10](https://engineering.purdue.edu/ECE)). I do a little bit of everything, but I'm happiest working with Ruby or Android.
 
